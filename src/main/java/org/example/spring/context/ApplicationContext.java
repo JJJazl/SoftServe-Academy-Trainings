@@ -1,4 +1,4 @@
-package org.example.context;
+package org.example.spring.context;
 
 import java.util.Map;
 
